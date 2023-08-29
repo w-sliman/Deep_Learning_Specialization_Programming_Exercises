@@ -4,7 +4,7 @@ These Programming Exercises are part of the deeplearning.ai Deep Learning Specia
 
 # Course1 - Neural Networks and Deep Learning
 ## Week2
-### W2A2 - Logistic Regression with a Neural Network mindset
+### [W2A2 - Logistic Regression with a Neural Network mindset](Course 1 Neural Networks and Deep Learning/Week2/W2A2/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 **Objective:**
 - Build the general architecture of a learning algorithm, including:
     - Initializing parameters
