@@ -69,7 +69,7 @@ This course consists of two weeks and it doesn't include any programming excerci
 - Use human-level performance to define key priorities in ML projects
 - Take the correct ML Strategic decision based on observations of performances and dataset
 
-## Week1
+## Week2
 **Objective:**
 - Describe multi-task learning and transfer learning
 - Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
