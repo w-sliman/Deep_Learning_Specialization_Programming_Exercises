@@ -58,4 +58,23 @@ Learning about how a well-chosen initialization can:
 - Explain the difference between a variable and a constant
 - Train a Neural Network on a TensorFlow dataset
 
-# Course3 - To Be Added.
+# Course3 - Structuring Machine Learning Projects
+This course consists of two weeks and it doesn't include any programming excercises.
+## Week1
+**Objective:**
+- Explain why Machine Learning strategy is important
+- Apply satisficing and optimizing metrics to set up your goal for ML projects
+- Choose a correct train/dev/test split of your dataset
+- Define human-level performance
+- Use human-level performance to define key priorities in ML projects
+- Take the correct ML Strategic decision based on observations of performances and dataset
+
+## Week1
+**Objective:**
+- Describe multi-task learning and transfer learning
+- Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
+
+# Course4 - Convolutional Neural Networks (To Be Added Soon)
+
+# Course5 - Sequence Models (To Be Added Soon)
+
