@@ -29,6 +29,33 @@ These Programming Exercises are part of the deeplearning.ai Deep Learning Specia
 **Objective:**
 - Build and train a deep L-layer neural network, and apply it to supervised learning
 
-# Course2 - To Be Updated
+# Course2 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization, and Optimization
+## Week1
+### [W1A1 - Initialization](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%2C%20and%20Optimization/week1/W1A1/Initialization.ipynb)
+**Objective:**
+Learning about how a well-chosen initialization can:
+- Speed up the convergence of gradient descent
+- Increase the odds of gradient descent converging to a lower training (and generalization) error
 
+### [W1A2 - Regularization](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%2C%20and%20Optimization/week1/W1A2/Regularization.ipynb)
+**Objective:**
+- Using regularization in your deep learning models
 
+### [W1A3 - Gradient Checking](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%2C%20and%20Optimization/week1/W1A3/Gradient_Checking.ipynb)
+**Objective:**
+- Implement gradient checking to verify the accuracy of your backprop implementation
+
+## Week2
+### [W2A1 - Optimization Methods](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%2C%20and%20Optimization/week2/W2A1/Optimization_methods.ipynb)
+**Objective:**
+- Apply optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
+- Use random minibatches to accelerate convergence and improve optimization
+
+## Week3
+### [W3A1 - Introduction to TensorFlow](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%2C%20and%20Optimization/week3/W3A1/Tensorflow_introduction.ipynb)
+**Objective:**
+- Use `tf.Variable` to modify the state of a variable
+- Explain the difference between a variable and a constant
+- Train a Neural Network on a TensorFlow dataset
+
+# Course3 - To Be Added.
