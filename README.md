@@ -141,5 +141,64 @@ This course consists of two weeks and it doesn't include any programming excerci
 - Define the style cost function for Neural Style Transfer
 - Define the content cost function for Neural Style Transfer
   
-# Course5 - Sequence Models (To Be Added Soon)
+# Course5 - Sequence Models
+
+## Week1
+### [W1A1 - Building your Recurrent Neural Network - Step by Step](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%205%20Sequence%20Models/week1/W1A1/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+**Objective:**
+- Define notation for building sequence models
+- Describe the architecture of a basic RNN
+- Identify the main components of an LSTM
+- Implement backpropagation through time for a basic RNN and an LSTM
+- Give examples of several types of RNN 
+  
+### [W1A2 - Character level language model - Dinosaurus Island](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%205%20Sequence%20Models/week1/W1A2/Dinosaurus_Island_Character_level_language_model.ipynb)
+**Objective:**
+- Store text data for processing using an RNN 
+- Build a character-level text generation model using an RNN
+- Sample novel sequences in an RNN
+- Explain the vanishing/exploding gradient problem in RNNs
+- Apply gradient clipping as a solution for exploding gradients
+
+### [W1A3 - Improvise a Jazz Solo with an LSTM Network](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%205%20Sequence%20Models/week1/W1A3/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+**Objective:**
+- Apply an LSTM to a music generation task
+- Generate your own jazz music with deep learning
+- Use the flexible Functional API to create complex models
+
+## Week2
+### [W2A1 - Operations on Word Vectors](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%205%20Sequence%20Models/week2/W2A1/Operations_on_word_vectors_v2a.ipynb)
+**Objective:**
+- Explain how word embeddings capture relationships between words
+- Load pre-trained word vectors
+- Measure similarity between word vectors using cosine similarity
+- Use word embeddings to solve word analogy problems such as Man is to Woman as King is to ______. 
+  
+### [W2A2 - Emojify!](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%205%20Sequence%20Models/week2/W2A2/Emoji_v3a.ipynb)
+**Objective:**
+- Create an embedding layer in Keras with pre-trained word vectors
+- Explain the advantages and disadvantages of the GloVe algorithm
+- Describe how negative sampling learns word vectors more efficiently than other methods
+- Build a sentiment classifier using word embeddings
+- Build and train a more sophisticated classifier using an LSTM
+
+## Week3
+### [W3A1 - Neural Machine Translation](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%205%20Sequence%20Models/week3/W3A1/Neural_machine_translation_with_attention_v4a.ipynb)
+**Objective:**
+- Build a Neural Machine Translation (NMT) model to translate human-readable dates ("25th of June, 2009") into machine-readable dates ("2009-06-25"). 
+- Do this using an attention model, one of the most sophisticated sequence-to-sequence models. 
+  
+### [W3A2 - Trigger Word Detection](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%205%20Sequence%20Models/week3/W3A2/Trigger_word_detection_v2a.ipynb)
+**Objective:**
+- Structure a speech recognition project
+- Synthesize and process audio recordings to create train/dev datasets
+- Train a trigger word detection model and make predictions
+
+## Week4
+### [W4A1 - Transformer Network](https://github.com/w-sliman/Deep_Learning_Specialization_Programming_Exercises/blob/main/Course%205%20Sequence%20Models/week4/W4A1/C5_W4_A1_Transformer_Subclass_v1.ipynb)
+**Objective:**
+- Create positional encodings to capture sequential relationships in data
+- Calculate scaled dot-product self-attention with word embeddings
+- Implement masked multi-head attention
+- Build and train a Transformer model
 
