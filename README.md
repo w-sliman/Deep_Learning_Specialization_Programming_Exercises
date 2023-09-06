@@ -1,4 +1,4 @@
-# Deep_Learning_Specialization_Programming_Exercises
+# Deep Learning Specialization Programming Exercises
 These Programming Exercises are part of the deeplearning.ai Deep Learning Specialization on Coursera. It's a great course and I would highly recommend it for people who are interested in learning deep learning.<br>
 **The Deep Learning Specialization Consists of 5 courses, divided into multiple weeks as shown below.**
 
